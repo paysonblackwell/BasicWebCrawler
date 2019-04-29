@@ -1,3 +1,5 @@
+# The Following is the assignment file for the project:
+
 # Project 1 - Web Crawler
 
 ## Objective
